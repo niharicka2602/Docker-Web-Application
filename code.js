@@ -1,5 +1,5 @@
 function lw() {
-    var i = document.getElementById("in1").value
+    var i = document.getElementById("ip").value
     
     var xhr = new XMLHttpRequest();
     
