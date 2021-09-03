@@ -1,5 +1,5 @@
-# Summer-MLOPS-Task-7
-Web Application for Docker
+# Docker Web Application
+Summer-MLOPS-Task-7
 
 Task 7.1 -
 
